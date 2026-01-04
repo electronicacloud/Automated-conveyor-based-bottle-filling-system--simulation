@@ -63,4 +63,4 @@ Due to hardware availability constraints, the complete system logic was tested a
 ---
 
 ##  Repository Structure
- *CONVEYOR BASED BOTTLE FILLING SYSTEM- SIMULATION.pdf
+ *CONVEYOR BASED BOTTLE FILLING SYSTEM- SIMULATION.pdf: Detailed project report.
